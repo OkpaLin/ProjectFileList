@@ -1,0 +1,9 @@
+[
+    {
+        "caption": "ProjectFileList: Generate File List",
+        "command": "project_file_list",
+        "args": {
+            "dirs": []
+        }
+    },
+]
